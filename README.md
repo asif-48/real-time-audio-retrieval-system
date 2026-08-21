@@ -32,7 +32,11 @@ The project demonstrates practical applications of Digital Signal Processing (DS
 
 ## System Architecture
 
+![System Architecture](images/architecture.png)
+![Audio fingerprinting pipeline](images/fingerprinting.png)
+![Graphical User Interface(Simplified picture)](images/gui.png)
 ```
+
 Reference Audio Files
           |
           v
